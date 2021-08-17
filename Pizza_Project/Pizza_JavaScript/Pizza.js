@@ -53,5 +53,5 @@ function getTopping(runningTotal,text1) {
     console.log("Purchase Total: "+"$"+runningTotal+".00");
     document.getElementById("showText").innerHTML=text1;
     document.getElementById("totalPrice").innerHTML = "<h3>Total: <strong>$"+
-        runningTotal+".00"+"</strong></h3>";
+        runningTotal+".00"+"</strong></h3>"; //adds strings and data together to be displayed on the html//
 };
