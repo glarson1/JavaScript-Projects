@@ -5,12 +5,12 @@
 * [Tic-Tac-Toe Game](https://github.com/glarson1/JavaScript-Projects/tree/main/TicTacToe)
 * [Calculator](https://github.com/glarson1/JavaScript-Projects/tree/main/Calculator)
 
-##Pizza Menu
+## Pizza Menu
 This project is a menu used to order pizza with a various selection of toppings. It then takes the input 
 information and calculates a price for the order.
 
-##Tic-Tac-Toe Game
+## Tic-Tac-Toe Game
 Here is a tic-tac-toe game where I played around with the tokens and added sound effects.
 
-##Calculator
+## Calculator
 A basic calculator made using HTML, CSS, and JavaScript. It can add, subtract, multiply, and divide.
