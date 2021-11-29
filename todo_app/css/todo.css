@@ -1,0 +1,41 @@
+html {                                                  /*for entire html*/
+    font-family: "Avenir Next", Helvetica, sans-serif;
+    text-align: center;
+}
+
+body {                           /*for all that is inside body tags*/
+    max-width: 500px;        /*the max width of anything in the body tags*/    
+    margin: 0 auto;    /*margin creates space around elements (top,right,bottom, left) auto lets the browser calculate the margin*/
+}
+
+input {
+    padding-top: 30px; /*padding is like margin but it is has to do with space inside of the borders*/
+    width: 500px;
+    height: 60px;
+    font-size: 40px;
+    border: 0; /*we dont want a border for the input*/
+}
+
+input:focus {    /*whatevers being clicked on in the input is the focus*/
+    outline:none; /*dont outline the input when it's clicked*/
+}
+
+li {
+    text-align: left;
+    font-size: 40px;
+    list-style: none;
+    margin: 0;
+}
+
+footer {
+    border:solid olive; /*olive color border around my footer*/
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: left;
+}
+
+.remove {
+    padding-bottom: 5px;
+}
